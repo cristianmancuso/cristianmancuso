@@ -8,7 +8,7 @@
 - HTML: Advanced
 - CSS: Advanced
 - Tailwind CSS: Advanced
-- JavaScript: Intermediate
+- JavaScript: Advanced
 - React: Intermediate
 - Next.js: Intermediate
 - Python: Beginner
