@@ -10,7 +10,6 @@
 - Tailwind CSS: Advanced
 - JavaScript: Advanced
 - React: Intermediate
-- Next.js: Intermediate
 - Python: Beginner
 - FaunaDB: Beginner
 - WordPress: Intermediate
@@ -25,6 +24,8 @@
 - Adobe Audition: Beginner
 - Figma: Intermediate
 - Sketch: Intermediate
+-  Next.js
+-  Astro
 
 
 ## 🚀 About Me
