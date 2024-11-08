@@ -9,6 +9,7 @@
 - CSS: Advanced
 - Tailwind CSS: Advanced
 - JavaScript: Advanced
+- TypeScript: Beginner
 - React: Intermediate
 - Python: Beginner
 - FaunaDB: Beginner
