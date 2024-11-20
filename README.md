@@ -3,30 +3,30 @@
 <a href="https://cristianmancuso.netlify.app/" target="_blank"> https://cristianmancuso.netlify.app/</a> 
 
 ### Skills and Tools
-HTML
-CSS
-Tailwind CSS
-JavaScript
-React
-TypeScript
-Python
-WordPress
-Node.js
-SQL
-PHP
-Bootstrap
-Next.js
-Astro
-Vite
-Adobe Photoshop
-Adobe Premiere Pro
-Adobe Illustrator
-Adobe After Effects
-Adobe XD
-Adobe Audition
-Sketch
-Figma
-Canva
+- HTML
+- CSS
+- Tailwind CSS
+- JavaScript
+- React
+- TypeScript
+- Python
+- WordPress
+- Node.js
+- SQL
+- PHP
+- Bootstrap
+- Next.js
+- Astro
+- Vite
+- Adobe Photoshop
+- Adobe Premiere Pro
+- Adobe Illustrator
+- Adobe After Effects
+- Adobe XD
+- Adobe Audition
+- Sketch
+- Figma
+- Canva
 
 
 
