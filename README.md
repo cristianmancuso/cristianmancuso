@@ -3,7 +3,7 @@
 <a href="https://cristianmancuso.netlify.app/" target="_blank"> https://cristianmancuso.netlify.app/</a> 
 
 ### Skills and Tools
-- ![HTML](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg| width=20) 
+- ![HTML](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg | width=20)
 - ![CSS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg | width=20) 
 - ![Tailwind CSS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tailwindcss.svg| width=20) 
 - ![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg) 
