@@ -4,7 +4,7 @@
 
 ### Skills and Tools
 <div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important; color:white;" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important;" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tailwindcss.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important;" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important;" />
