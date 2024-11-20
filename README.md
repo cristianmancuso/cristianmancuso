@@ -3,30 +3,31 @@
 <a href="https://cristianmancuso.netlify.app/" target="_blank"> https://cristianmancuso.netlify.app/</a> 
 
 ### Skills and Tools
-- ![HTML](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg | width=20)
-- ![CSS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg | width=20) 
-- ![Tailwind CSS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tailwindcss.svg| width=20) 
-- ![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg) 
-- ![ReactJS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg) 
-- ![Typescript](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg) 
-- ![Python](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg) 
-- ![Wordpress](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wordpress.svg) 
-- ![NodeJS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/node-dot-js.svg) 
-- ![SQL](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mysql.svg) 
-- ![PHP](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/php.svg) 
-- ![Bootstrap](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/bootstrap.svg) 
-- ![Next.js](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/next-dot-js.svg) 
-- ![Astro](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/astro.svg) 
-- ![Vite](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/vite.svg) 
-- ![Adobe Photoshop](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobephotoshop.svg) 
-- ![Adobe Premiere](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobepremierepro.svg) 
-- ![Adobe Illustrator](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobeillustrator.svg) 
-- ![Adobe After Effects](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobeaftereffects.svg) 
-- ![Adobe XD](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobexd.svg) 
-- ![Adobe Audition](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobeaudition.svg) 
-- ![Sketch](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sketch.svg) 
-- ![Figma](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/figma.svg) 
-- ![Canva](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/canva.svg)
+### Skills and Tools
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" width="20" />
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg" width="20" />
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tailwindcss.svg" width="20" />
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" width="20" />
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg" width="20" />
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg" width="20" />
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" width="20" />
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wordpress.svg" width="20" />
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/node-dot-js.svg" width="20" />
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mysql.svg" width="20" />
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/php.svg" width="20" />
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/bootstrap.svg" width="20" />
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/next-dot-js.svg" width="20" />
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/astro.svg" width="20" />
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/vite.svg" width="20" />
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobephotoshop.svg" width="20" />
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobepremierepro.svg" width="20" />
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobeillustrator.svg" width="20" />
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobeaftereffects.svg" width="20" />
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobexd.svg" width="20" />
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobeaudition.svg" width="20" />
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sketch.svg" width="20" />
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/figma.svg" width="20" />
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/canva.svg" width="20" />
 
 
 
