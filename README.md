@@ -3,32 +3,34 @@
 <a href="https://cristianmancuso.netlify.app/" target="_blank"> https://cristianmancuso.netlify.app/</a> 
 
 ### Skills and Tools
+### Skills and Tools
 <div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important; color:white;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tailwindcss.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wordpress.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/node-dot-js.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mysql.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/php.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/bootstrap.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/next-dot-js.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/astro.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/vite.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobephotoshop.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobepremierepro.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobeillustrator.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobeaftereffects.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobexd.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobeaudition.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sketch.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/figma.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/canva.svg" width="20" style="filter: invert(1) contrast(100%) brightness(0) !important;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tailwindcss.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wordpress.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/node-dot-js.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mysql.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/php.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/bootstrap.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/next-dot-js.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/astro.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/vite.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobephotoshop.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobepremierepro.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobeillustrator.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobeaftereffects.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobexd.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobeaudition.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sketch.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/figma.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/canva.svg" width="20" />
 </div>
+
 
 
 ## 🚀 About Me
