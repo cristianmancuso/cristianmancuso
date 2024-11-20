@@ -4,7 +4,7 @@
 
 ### Skills and Tools
 ### Skills and Tools
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10px; color: #ff5733;">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" width="20" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg" width="20" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tailwindcss.svg" width="20" />
